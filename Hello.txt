@@ -7,3 +7,10 @@ Cherry pick
 
 
 Last stable release V1
+
+
+New payment feature
+
+UI redesign
+
+Login bug fix
